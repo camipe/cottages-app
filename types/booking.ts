@@ -1,7 +1,7 @@
 export type Booking = {
   id: string
-  start: string
-  end: string
+  start: Date | undefined
+  end: Date | undefined
   cottageId: string
   guest: {
     name: string

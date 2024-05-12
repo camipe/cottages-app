@@ -11,10 +11,15 @@ export default function () {
   function findOccupiedDates(cottageId: string) {
     return bookings.value
       .filter(booking => booking.cottageId === cottageId)
-      .flatMap(booking => eachDayOfInterval({
-        start: new Date(booking.start),
-        end: new Date(booking.end),
-      }))
+      .flatMap((booking) => {
+        if (!booking.start || !booking.end)
+          return []
+
+        return eachDayOfInterval({
+          start: new Date(booking.start),
+          end: new Date(booking.end),
+        })
+      })
   }
 
   return {

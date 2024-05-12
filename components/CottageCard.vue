@@ -19,11 +19,11 @@ defineProps<{
     </template>
     <template #content>
       <div class="flex gap-4">
-        <p class="flex-grow p-3 border rounded-lg border-secondary">
+        <p class="flex-1 p-3 border rounded-lg w-fit border-secondary">
           Sängar:
           {{ cottage.beds }}
         </p>
-        <p class="flex flex-grow p-3 border rounded-lg border-secondary">
+        <p class="flex-1 p-3 border rounded-lg w-fit border-secondary">
           Rum:
           {{ cottage.rooms }}
         </p>

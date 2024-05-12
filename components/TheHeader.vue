@@ -1,7 +1,3 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
   <div class="flex bg-white">
     <div class="p-4">
@@ -10,14 +6,14 @@
       </NuxtLink>
     </div>
     <nav class="ml-auto">
-      <ul class="p-4 flex items-center gap-4">
+      <ul class="flex items-center gap-4 p-4">
         <li>
-          <nuxt-link to="/">
+          <nuxt-link to="/" exact-active-class="underline">
             Stugor
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/admin">
+          <nuxt-link to="/admin" exact-active-class="underline">
             Admin
           </nuxt-link>
         </li>

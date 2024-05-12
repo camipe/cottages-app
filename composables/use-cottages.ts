@@ -5,6 +5,8 @@ export default function () {
     {
       id: '1',
       title: 'Sjöstugan',
+      description: '',
+      image: '/images/ai-generated-8613213_640.jpg',
       address: 'Strandvägen 1',
       postalCode: '12345',
       city: 'Sjöstad',
@@ -14,6 +16,8 @@ export default function () {
     {
       id: '2',
       title: 'Skogshemmet',
+      description: '',
+      image: '/images/building-69768_640.jpg',
       address: 'Skogsvägen 2',
       postalCode: '23456',
       city: 'Skogsby',
@@ -23,6 +27,8 @@ export default function () {
     {
       id: '3',
       title: 'Havsbris',
+      description: '',
+      image: '/images/cabin-5623592_640.jpg',
       address: 'Havsgatan 3',
       postalCode: '34567',
       city: 'Havshamn',
@@ -32,6 +38,8 @@ export default function () {
     {
       id: '4',
       title: 'Fjällstugan',
+      description: '',
+      image: '/images/cottage-1874633_640.jpg',
       address: 'Fjällvägen 4',
       postalCode: '45678',
       city: 'Fjällbyn',
@@ -41,6 +49,8 @@ export default function () {
     {
       id: '5',
       title: 'Ängslunden',
+      description: '',
+      image: '/images/cottage-8474753_640.jpg',
       address: 'Ängsvägen 5',
       postalCode: '56789',
       city: 'Ängsby',
@@ -50,6 +60,8 @@ export default function () {
     {
       id: '6',
       title: 'Sjöboden',
+      description: '',
+      image: '/images/holiday-home-177401_640.jpg',
       address: 'Sjögatan 6',
       postalCode: '67890',
       city: 'Sjöby',
@@ -59,6 +71,8 @@ export default function () {
     {
       id: '7',
       title: 'Strandstugan',
+      description: '',
+      image: '/images/house-3786593_640.jpg',
       address: 'Strandvägen 7',
       postalCode: '78901',
       city: 'Strandstad',
@@ -68,6 +82,8 @@ export default function () {
     {
       id: '8',
       title: 'Skogsgläntan',
+      description: '',
+      image: '/images/mountains-1587287_640.jpg',
       address: 'Skogsvägen 8',
       postalCode: '89012',
       city: 'Skogshamn',
@@ -77,6 +93,8 @@ export default function () {
     {
       id: '9',
       title: 'Havsnära',
+      description: '',
+      image: '/images/cabin-5842940_640.jpg',
       address: 'Havsgatan 9',
       postalCode: '90123',
       city: 'Havsby',
@@ -86,6 +104,8 @@ export default function () {
     {
       id: '10',
       title: 'Fjällvinden',
+      description: '',
+      image: '/images/winter-4727668_640.jpg',
       address: 'Fjällvägen 10',
       postalCode: '01234',
       city: 'Fjällstad',
@@ -95,6 +115,8 @@ export default function () {
     {
       id: '11',
       title: 'Ängshagen',
+      description: '',
+      image: '/images/wooden-house-5990155_640.jpg',
       address: 'Ängsvägen 11',
       postalCode: '12340',
       city: 'Ängsstad',
@@ -104,6 +126,8 @@ export default function () {
     {
       id: '12',
       title: 'Sjöutsikten',
+      description: '',
+      image: '/images/stilt-house-7851833_640.jpg',
       address: 'Sjögatan 12',
       postalCode: '23450',
       city: 'Sjöhamn',

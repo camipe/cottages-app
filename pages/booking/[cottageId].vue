@@ -127,7 +127,7 @@ function handleConfirmation() {
       </div>
     </div>
 
-    <PDialog v-model:visible="showConfirmation" modal>
+    <PDialog v-model:visible="showConfirmation" modal :closable="false">
       <template #header>
         <h2 class="text-xl font-semibold">
           Tack för din bokning.

@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['nuxt-primevue', '@nuxtjs/tailwindcss', '@nuxt/fonts'],
+  modules: ['nuxt-primevue', '@nuxtjs/tailwindcss', '@nuxt/fonts', '@vueuse/nuxt',],
   primevue: {
     importPT: { as: 'Aura', from: '~/presets/aura' },
     options: {

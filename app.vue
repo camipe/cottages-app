@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col h-full bg-surface-100">
+  <div class="min-h-full pb-20 bg-surface-100">
     <NuxtLayout />
   </div>
 </template>

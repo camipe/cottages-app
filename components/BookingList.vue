@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import type { Booking } from '~/types/booking'
+import formatDate from '~/utils/formate-date'
 
 const props = defineProps<{
   items: Booking[]
@@ -13,6 +14,8 @@ const bookingsWithCottage = computed(() => {
 
     return {
       ...booking,
+      start: formatDate(booking.start),
+      end: formatDate(booking.end),
       cottage,
     }
   })
@@ -28,6 +31,9 @@ const bookingsWithCottage = computed(() => {
     <PColumn field="guest.name" header="Name" />
     <PColumn field="guest.email" header="Email" />
     <PColumn field="guest.phone" header="Phone" />
+    <template #empty>
+      Det finns inga bokningar ännu.
+    </template>
   </PDataTable>
 </template>
 

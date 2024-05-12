@@ -5,7 +5,7 @@ export default function () {
     {
       id: '1',
       title: 'Sjöstugan',
-      description: '',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et justo a nunc viverra ullamcorper nec sit amet leo. Duis dapibus pulvinar nulla, in ornare sem. Quisque eu neque lacus. Suspendisse nibh nisl, auctor sed leo id, luctus suscipit velit. In vitae vestibulum leo, vel facilisis augue. Nullam efficitur ullamcorper turpis, vel mollis odio dapibus ut. Quisque ullamcorper, risus eu tempus tincidunt, libero nulla gravida dui, vitae elementum libero justo non mi. Nunc quis mauris vitae ex imperdiet porta vitae eu risus. Praesent id mi libero. Maecenas blandit ullamcorper est, sit amet mollis purus porta a. Nulla bibendum libero a sem porttitor rutrum. Ut convallis elit nec purus feugiat, eget commodo leo hendrerit',
       image: '/images/ai-generated-8613213_640.jpg',
       address: 'Strandvägen 1',
       postalCode: '12345',
@@ -16,7 +16,7 @@ export default function () {
     {
       id: '2',
       title: 'Skogshemmet',
-      description: '',
+      description: 'Sed faucibus purus eget quam tempor vestibulum. Sed erat quam, maximus eget tristique id, fermentum id dui. Nulla facilisi. Cras ut arcu lectus. Suspendisse quam enim, tempus nec arcu in, facilisis aliquet lorem. Fusce porttitor, nulla tincidunt gravida ultrices, turpis erat auctor nibh, non elementum nulla metus eu erat. Sed et eros vel nunc ultrices ultricies at varius tortor. Praesent eget mollis nisl. In efficitur maximus lorem. Vivamus ornare enim non bibendum dignissim. ',
       image: '/images/building-69768_640.jpg',
       address: 'Skogsvägen 2',
       postalCode: '23456',
@@ -27,7 +27,7 @@ export default function () {
     {
       id: '3',
       title: 'Havsbris',
-      description: '',
+      description: 'Vivamus pulvinar nulla sit amet libero euismod euismod. Nunc ut volutpat mi. Suspendisse ut pellentesque arcu. Praesent convallis, velit non fringilla aliquet, leo enim hendrerit elit, sed sagittis lorem magna et lorem. Ut laoreet imperdiet tellus, in vestibulum libero fermentum ut. Nam sed orci nunc. Ut cursus rutrum neque, lacinia accumsan libero bibendum vitae. Donec sollicitudin lobortis enim non mollis. Cras auctor blandit sagittis. Duis vehicula magna vel euismod iaculis. Praesent nec sapien a orci feugiat blandit. ',
       image: '/images/cabin-5623592_640.jpg',
       address: 'Havsgatan 3',
       postalCode: '34567',
@@ -38,7 +38,7 @@ export default function () {
     {
       id: '4',
       title: 'Fjällstugan',
-      description: '',
+      description: 'Nunc ornare ipsum at quam malesuada dictum. Nulla volutpat, ipsum in ullamcorper dictum, lorem eros dapibus mi, sit amet consectetur tortor quam in dui. Suspendisse non augue pharetra, vestibulum augue sed, iaculis tortor. Aenean condimentum molestie sem, eu venenatis nunc hendrerit a. Ut non pharetra ante. Donec finibus interdum velit, malesuada dignissim mauris laoreet eu. Vivamus posuere non orci sit amet laoreet. Etiam placerat blandit porttitor. Duis eget leo tristique, dignissim libero non, euismod ante. Donec dapibus, elit vel vestibulum fringilla, odio odio ultricies orci, vel dignissim augue nibh non urna. Ut placerat enim dictum erat mattis commodo. ',
       image: '/images/cottage-1874633_640.jpg',
       address: 'Fjällvägen 4',
       postalCode: '45678',
@@ -49,7 +49,7 @@ export default function () {
     {
       id: '5',
       title: 'Ängslunden',
-      description: '',
+      description: 'Fusce a lacus placerat, lacinia mauris non, accumsan urna. Aenean a mollis massa. In accumsan enim id malesuada sagittis. Mauris imperdiet lorem tellus, dictum scelerisque nibh sollicitudin eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eleifend tellus a varius maximus. Suspendisse eu neque viverra, pulvinar mi a, dapibus dolor. Sed mollis ullamcorper arcu, in pellentesque nulla suscipit vulputate. Maecenas sit amet nulla a justo lacinia pellentesque a eu felis. Sed enim tortor, consequat ac rhoncus ac, sollicitudin et lectus. Vivamus pretium semper velit, ut vulputate dui ultrices sit amet',
       image: '/images/cottage-8474753_640.jpg',
       address: 'Ängsvägen 5',
       postalCode: '56789',
@@ -60,7 +60,7 @@ export default function () {
     {
       id: '6',
       title: 'Sjöboden',
-      description: '',
+      description: 'Maecenas a risus tortor. Vivamus aliquet finibus metus, sed elementum metus dignissim sed. Ut efficitur nunc volutpat mauris laoreet volutpat. Cras nec ornare urna. Donec auctor, leo in iaculis tincidunt, quam enim pharetra odio, id faucibus justo velit in nibh. Vestibulum at faucibus nisi, eget fermentum leo. Fusce id facilisis quam, quis tincidunt urna. Mauris id est hendrerit urna ornare ultrices vel et orci. In sit amet nibh dui. Etiam malesuada dapibus est, sit amet ullamcorper justo porttitor sit amet. Quisque semper rutrum quam, et imperdiet risus hendrerit at.',
       image: '/images/holiday-home-177401_640.jpg',
       address: 'Sjögatan 6',
       postalCode: '67890',
@@ -71,7 +71,7 @@ export default function () {
     {
       id: '7',
       title: 'Strandstugan',
-      description: '',
+      description: 'Vestibulum in tincidunt sapien. Pellentesque euismod feugiat lorem, eget volutpat nibh sodales vel. Maecenas faucibus id libero nec consectetur. Nam condimentum laoreet ante vel fringilla. Nullam nec vestibulum quam. Etiam sit amet elit tellus. Mauris condimentum mauris neque, eu aliquam lectus efficitur nec. Vivamus finibus non eros ac sagittis. Sed pulvinar sapien nec lectus placerat molestie. Etiam faucibus eros tincidunt diam posuere porta. ',
       image: '/images/house-3786593_640.jpg',
       address: 'Strandvägen 7',
       postalCode: '78901',
@@ -82,7 +82,7 @@ export default function () {
     {
       id: '8',
       title: 'Skogsgläntan',
-      description: '',
+      description: 'Sed lobortis suscipit augue at iaculis. Integer aliquam molestie turpis, ac dignissim arcu ultricies nec. Etiam ex mi, facilisis nec est ut, vehicula imperdiet mi. Cras efficitur convallis purus, eu luctus libero suscipit quis. Curabitur maximus, dui non interdum hendrerit, erat mauris varius sem, id posuere eros metus eu libero. Phasellus arcu lacus, malesuada vitae ipsum blandit, sagittis pulvinar nulla. Vestibulum nec tellus est. Mauris sed neque varius, consectetur felis et, pretium magna. ',
       image: '/images/mountains-1587287_640.jpg',
       address: 'Skogsvägen 8',
       postalCode: '89012',
@@ -93,7 +93,7 @@ export default function () {
     {
       id: '9',
       title: 'Havsnära',
-      description: '',
+      description: 'Aliquam tincidunt, leo sed gravida placerat, mauris elit fermentum ante, a ullamcorper neque justo sit amet tellus. Aenean gravida massa nisi, nec posuere risus facilisis in. Sed consectetur aliquet cursus. Curabitur a lacus lectus. Vestibulum sit amet mi mi. Aliquam fermentum sagittis tortor, eget consectetur diam aliquam nec. Pellentesque odio ante, scelerisque at tincidunt condimentum, interdum vitae libero. Duis luctus egestas leo, in elementum nulla posuere id. Aenean fermentum orci in orci posuere vulputate. Donec viverra porttitor convallis.',
       image: '/images/cabin-5842940_640.jpg',
       address: 'Havsgatan 9',
       postalCode: '90123',
@@ -104,7 +104,7 @@ export default function () {
     {
       id: '10',
       title: 'Fjällvinden',
-      description: '',
+      description: 'Maecenas a risus tortor. Vivamus aliquet finibus metus, sed elementum metus dignissim sed. Ut efficitur nunc volutpat mauris laoreet volutpat. Cras nec ornare urna. Donec auctor, leo in iaculis tincidunt, quam enim pharetra odio, id faucibus justo velit in nibh. Vestibulum at faucibus nisi, eget fermentum leo. Fusce id facilisis quam, quis tincidunt urna. Mauris id est hendrerit urna ornare ultrices vel et orci. In sit amet nibh dui. Etiam malesuada dapibus est, sit amet ullamcorper justo porttitor sit amet. Quisque semper rutrum quam, et imperdiet risus hendrerit at',
       image: '/images/winter-4727668_640.jpg',
       address: 'Fjällvägen 10',
       postalCode: '01234',
@@ -115,7 +115,7 @@ export default function () {
     {
       id: '11',
       title: 'Ängshagen',
-      description: '',
+      description: 'Aenean aliquam, mauris sed ultrices commodo, tellus velit sagittis massa, id tincidunt felis augue vel tellus. Maecenas semper efficitur magna sit amet dapibus. Phasellus rutrum ornare turpis, condimentum aliquam augue lobortis vel. Cras ut scelerisque nisl. Vivamus tincidunt lobortis euismod. Aliquam vitae tempor est, ac feugiat ligula. In ligula lorem, suscipit id consectetur et, laoreet et ligula. Maecenas aliquam ac velit a vulputate. Sed finibus nibh nibh, vel pellentesque libero venenatis eget. Nunc faucibus metus in velit cursus vestibulum. Ut quis congue orci,',
       image: '/images/wooden-house-5990155_640.jpg',
       address: 'Ängsvägen 11',
       postalCode: '12340',
@@ -126,7 +126,7 @@ export default function () {
     {
       id: '12',
       title: 'Sjöutsikten',
-      description: '',
+      description: 'Mauris id est hendrerit urna ornare ultrices vel et orci. In sit amet nibh dui. Etiam malesuada dapibus est, sit amet ullamcorper justo porttitor sit amet. Quisque semper rutrum quam, et imperdiet risus hendrerit at. Pellentesque ullamcorper massa quis nisi scelerisque malesuada. Suspendisse id pellentesque ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed orci dui, interdum vitae vulputate eu, eleifend sed velit. Quisque eu mollis nisi, at accumsan neque. ',
       image: '/images/stilt-house-7851833_640.jpg',
       address: 'Sjögatan 12',
       postalCode: '23450',

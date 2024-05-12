@@ -12,4 +12,5 @@ export default antfu({
       'type',
     ],
   },
+  ignores: ['preset/aura/**/*'],
 })

@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['nuxt-primevue', '@nuxtjs/tailwindcss', '@nuxt/fonts'],
   primevue: {
+    importPT: { as: 'Aura', from: '~/presets/aura' },
     options: {
       unstyled: true,
     },
